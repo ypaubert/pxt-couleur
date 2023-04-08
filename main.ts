@@ -1,4 +1,4 @@
-namespace AbletonRadio {
+namespace MusiqueEtCouleur {
 
     let R = 0
     let G = 0
