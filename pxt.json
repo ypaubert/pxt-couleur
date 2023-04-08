@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-tcs34725": "github:samnied/pxt-tcs34725#v0.0.1"
     },
     "files": [
         "main.blocks",
